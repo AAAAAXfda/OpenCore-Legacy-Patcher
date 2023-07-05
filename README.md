@@ -1,7 +1,6 @@
-<div align="center">
-             <img src="images/OC-Patcher.png" alt="OpenCore Patcher Logo" width="256" />
-             <h1>OpenCore Legacy Patcher</h1>
-</div>
+# OpenCore Legacy Patcher
+
+<img src="images/OC-Patcher.png" width="256">
 
 A Python-based project revolving around [Acidanthera's OpenCorePkg](https://github.com/acidanthera/OpenCorePkg) and [Lilu](https://github.com/acidanthera/Lilu) for both running and unlocking features in macOS on supported and unsupported Macs.
 
